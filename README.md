@@ -11,4 +11,4 @@ This project demonstrates browser based testing using [Jasmine](https://jasmine.
 * Open `index.html` in your web browser.
 * Once loaded, test results will be shown at the bottom of the page.
 
-To view the feedreader testing site on github pages go to http://lzyacht.github.io/feedreader-testing/
+To view the feedreader testing site on github pages go to `https://lzyacht.github.io/feedreader-testing/`
